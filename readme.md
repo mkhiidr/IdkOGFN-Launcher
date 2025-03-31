@@ -1,7 +1,7 @@
 ### **Official Launcher for Project IdkOGFN**
 
 - **HOSTED VERSION IS 9.10**
-- TO MAKE AN ACCOUNT JOIN THE [DISCORD SERVER](https://discord.gg/BNEpEZJ7T6).
+- TO MAKE AN ACCOUNT JOIN THE [DISCORD SERVER](https://discord.gg/VudpajF4aq).
 
 ### **COMMON ERROR**
 <img width="303" alt="image" src="https://github.com/user-attachments/assets/e13985e7-539b-43f4-b47e-f4966f6e6375" />
